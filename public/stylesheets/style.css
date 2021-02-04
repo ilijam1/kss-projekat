@@ -1,0 +1,21 @@
+.profile {
+  background-color: coral;
+}
+.profileImg {
+  max-width: 700px;
+}
+.content-center {
+  justify-content: center;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.max-size {
+  width: 1024px;
+}
+h1 {
+  text-align: center;
+}
